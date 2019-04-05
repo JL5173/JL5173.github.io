@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Beyond the bay was a sandbar, and beyond that the Atlantic Ocean;',
+      'The Kinzer farm had lain right there--acre for acre, no more, no less',
   'example2':
       'As the boy grew, and developed many undesirable traits of character',
   'example3':
       'A small thick-walled bulb is blown at the point indicated by the dotted lines, and annealed.',
   'example4':
-      'Mr. Storey; and the builders, Messrs. Ramage.',
+      'The average speed in this case was 10.7 knots an hour.',
   'example5':
       'The average speed in this case was 10.7 knots an hour.'
 };
