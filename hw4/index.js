@@ -16,7 +16,7 @@ const examples = {
   'example4':
       'Mr. Storey; and the builders, Messrs. Ramage.',
   'example5':
-      'The Prelude is an abbreviated exposition of the purposes, musical and dramatic, of the opera.'
+      'The average speed in this case was 10.7 knots an hour.'
 };
 
 function status(statusText) {
