@@ -8,14 +8,12 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'The Kinzer farm had lain right there--acre for acre, no more, no less',
-  'example2':
       'As the boy grew, and developed many undesirable traits of character',
-  'example3':
+  'example2':
       'A small thick-walled bulb is blown at the point indicated by the dotted lines, and annealed.',
-  'example4':
+  'example3':
       'The average speed in this case was 10.7 knots an hour.',
-  'example5':
+  'example4':
       'The Prelude is an abbreviated exposition of the purposes, musical and dramatic, of the opera.'
 };
 
